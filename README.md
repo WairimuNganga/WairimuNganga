@@ -4,11 +4,11 @@ Welcome to my GitHub space! I’m a passionate data enthusiast with a keen inter
 
 ## 🔍 **What I Do**
 - **Machine Learning & Data Science**: Diving deep into the world of data to develop predictive models and uncover trends. I’m fascinated by how data can inform strategies and enhance outcomes.
-- **Data Visualization**: Creating intuitive dashboards and reports that transform raw data into clear, actionable insights using tools like **[Tableau](https://www.tableau.com)**.
+- **Data Visualization**: Creating intuitive dashboards and reports that transform raw data into clear, actionable insights using tools like Tableau.
 - **Analytics Exploration**: Exploring the intricacies of data, analyzing patterns, and discovering how they can lead to meaningful improvements.
 
-## 🏙️ **Current Project
-### **Optimizing Urban Green Spaces for Climate Adaptation**
+## 🏙️ **Current Project**
+#### **Optimizing Urban Green Spaces for Climate Adaptation**
 This project aims to develop a machine learning tool that utilizes spatial data and satellite imagery to optimize urban green spaces (UGS) in Nairobi. By identifying suitable locations and types of green spaces, the project seeks to enhance climate resilience and improve the quality of life in rapidly urbanizing areas.
 
 #### **Key Objectives**
@@ -18,13 +18,16 @@ This project aims to develop a machine learning tool that utilizes spatial data 
 
 ## 🧰 **My Toolbelt**
 - **Programming Languages**: Python, SQL
-- **Data Visualization Tools**: [Tableau](https://public.tableau.com/app/profile/wairimu.nganga/vizzes)
+- **Data Visualization Tools**: Tableau
 - **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy
 - **Data Management**: SQL, DBT
 
 ## 🌱 **Currently Learning**
 - Advanced machine learning techniques and algorithms
 - Data engineering concepts to enhance data pipeline efficiency
+
+## 🌍 **Community Engagement**
+When I'm not diving into data matters, I actively give back to the community at [AkiraChix](https://akirachix.com), my alma mater,  where I support initiatives to empower women in tech through mentorship and skill development. Additionally, I serve as the Secretary for [CodeHiveX](https://akirachix.com/programs/codeHiveX/), a program dedicated to providing women with essential skills, mentorship, and networking opportunities in the tech field. I take pride in being part of a movement that helps close the gender gap in technology
   
 ---
 
